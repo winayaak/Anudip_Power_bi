@@ -22,3 +22,11 @@ Microsoft Excel
 Storing and exploring the dataset
 Git and GitHub
 Version control and project hosting
+
+
+4. Power BI Report Files
+The repository includes these Power BI files:
+First Report.pbix – Power BI report file.
+lab2.pbix – Additional Power BI report/lab file.
+Open either .pbix file using Power BI Desktop to explore the report pages, visuals, and available interactions.
+Note: The exact charts, KPIs, and findings should be documented after reviewing the report pages. This README does not assume results that have not been verified.
