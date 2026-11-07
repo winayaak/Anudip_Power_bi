@@ -12,3 +12,13 @@ Examine sales values and payment methods.
 Explore salesperson-related sales performance.
 Build and present findings through Power BI reports.
 Practise data visualisation and dashboard development.
+
+3. Tools and Technologies
+Tool
+Purpose
+Microsoft Power BI Desktop
+Building and viewing reports
+Microsoft Excel
+Storing and exploring the dataset
+Git and GitHub
+Version control and project hosting
