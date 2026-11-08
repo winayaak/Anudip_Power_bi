@@ -30,3 +30,11 @@ First Report.pbix – Power BI report file.
 lab2.pbix – Additional Power BI report/lab file.
 Open either .pbix file using Power BI Desktop to explore the report pages, visuals, and available interactions.
 Note: The exact charts, KPIs, and findings should be documented after reviewing the report pages. This README does not assume results that have not been verified.
+
+
+
+
+
+
+
+NO studies today DIWALI MANAOOO bc
