@@ -38,3 +38,4 @@ Note: The exact charts, KPIs, and findings should be documented after reviewing 
 
 
 NO studies today DIWALI MANAOOO bc
+exam is there so halt
